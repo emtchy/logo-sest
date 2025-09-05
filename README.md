@@ -12,12 +12,12 @@ Includes the logo mockup file.
 
 Includes ready-to-use logos. In png format (256px, 512px, 1024px) and in sv format.
 
-# sources
+## sources
 
 Logo files in sv and afdesign format for adations.
 
-# typography
+## typography
 
 Includes file about the 'JetBrains Mono' font and font usage.
 
-# variants
+## variants
